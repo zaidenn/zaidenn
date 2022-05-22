@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on game.
-- 📫 How to reach me: NOT THIS TIME!
+- 📫 How to reach me: muslimchagaev51@gmail.com
 
 <!---
 zaidenn/zaidenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
